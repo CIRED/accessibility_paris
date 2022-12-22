@@ -1,5 +1,5 @@
 # accessibility_paris
-This is the R code allowing to reproduce the results of the paper "Can Public Transport Improve Accessibility for the Poor Over the Long Term? Empirical Evidence in Paris, 1968-2010", by Vincent Viguié, Charlotte Liotta, Basile Pfeiffer and Nicolas Coulombel, submitted to the Journal of Transport Geography and available at SSRN: https://ssrn.com/abstract=4049765 or http://dx.doi.org/10.2139/ssrn.4049765
+This is the R code allowing to reproduce the results of the paper "Can Public Transport Improve Accessibility for the Poor Over the Long Term? Empirical Evidence in Paris, 1968-2010", by Vincent Viguié, Charlotte Liotta, Basile Pfeiffer and Nicolas Coulombel, published in the Journal of Transport Geography https://doi.org/10.1016/j.jtrangeo.2022.103473
 
 ### Data
 Required inputs (average transport time between municipalities by public transit for the Census years between 1968 and 2019 and by car for the year 2010, and number of employed workers, by place of residence or employment, at the municipality level) are available here: https://doi.org/10.5281/zenodo.7139257.
